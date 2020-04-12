@@ -1,5 +1,6 @@
 # PS3
-CHEME-5440-7770 Problem Set 3, FBA /n
+CHEME-5440-7770 Problem Set 3, FBA
+
 With the code I have written, in order to use the csv files that are also in the repository, you must edit the destination in the CSV.read lines of the code.
 
 ### Part a ###
